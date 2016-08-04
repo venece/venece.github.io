@@ -1,2 +1,2 @@
-# venece.github.io
+# venece
 homepagey thing
